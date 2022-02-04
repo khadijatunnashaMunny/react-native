@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "uber_react_native",
+    "slug": "uber_react_native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "uber_react_native"
+}
